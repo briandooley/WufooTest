@@ -1,0 +1,230 @@
+[{
+  "fields": {
+    "accessType": "p",
+    "collapsed": false,
+    "color": "",
+    "config": {
+      "analyticsTag": {
+        "tag_name": "",
+        "updated": 1390217508247
+      },
+      "appcloud": {"wrapper": {
+        "dev": {"module": "fh-nodeapp"},
+        "live": {"module": "fh-nodeapp"}
+      }},
+      "deploy": {
+        "policy": {
+          "dev": "default",
+          "live": "default"
+        },
+        "url": {
+          "dev": "https://enterpriseplc-blmjhz2omjblds71tbq0zzxp-dev_enterpriseplc.df.dev.e111.feedhenry.net",
+          "live": "https://enterpriseplc-blmjhz2omjblds71tbq0zzxp-live_enterpriseplc.df.live.e111.feedhenry.net"
+        }
+      },
+      "icon": {
+        "large": "BlMJhl5FvZrtgAriqgYiCKu4",
+        "small": "BlMJhvX89s5y5v6WCy479RKF"
+      },
+      "nodejs": {"app": {"runtime": {"live": "node08"}}},
+      "notification_email": "sarah.handford@enterprise.plc.uk",
+      "preview": {"device": "ipad_noscale"}
+    },
+    "containerCriteria": "",
+    "description": "App Forms App",
+    "disabled": false,
+    "discover": false,
+    "dock": "",
+    "email": "sarah.handford@enterprise.plc.uk",
+    "fixedPos": false,
+    "height": 768,
+    "iconLarge": "",
+    "iconSmall": "",
+    "mobileFullScreen": false,
+    "origin": "d",
+    "overrides": {},
+    "params": {},
+    "prefsEditable": true,
+    "ratingData": {},
+    "screenShot": "",
+    "sharable": true,
+    "sizeEditable": false,
+    "title": "Manweb Status Updates *New",
+    "titleEditable": false,
+    "type": "",
+    "width": 1024
+  },
+  "iconSmall": {
+    "fields": {
+      "active": true,
+      "code": "small",
+      "contents": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAy0lEQVR42q2SzQqCQBDHfdwskwqtXsO+H0UDUxLtAfwiwdyDJ7fDdlEPSg1sGHaIXejP8md2hh8zAyM8OSX8LiOE8jznADzvgvGdAwjDKMtQ0zSsACGkrmvX9ZiAa5L4fgCvbVsmwHFccF03TPPEOhKVZdmwDAegaeseMBhK6nwJAfh0poBXVQVOk6A0vdn2OQjCN9AVaFwUBc2MJJmQBwSrzTaK40+HLwBjDF6WZVfSjWNvadpdFKUO2O0PY3kCX0Vd8N0S9/H9AXgBwtvKREEoSOQAAAAASUVORK5CYII=",
+      "fileName": "ameylogo[1].png"
+    },
+    "type": "widg_InstanceBinary"
+  },
+  "iconlarge": {
+    "fields": {
+      "active": true,
+      "code": "large",
+      "contents": "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",
+      "fileName": "ameylogo[1].png"
+    },
+    "type": "widg_InstanceBinary"
+  },
+  "sharing": [
+    {
+      "fields": {
+        "code": "feedhenry",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "windowsmobile",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "ios",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "jil",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "embed",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "iphone",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "preview",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "mobile",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "android",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "ipad",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "unavailable",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "nokiawrt",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "windowsphone7",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "opera",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "studio",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "blackberry",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    },
+    {
+      "fields": {
+        "code": "w3cwgt",
+        "disableExistingShared": false,
+        "sharable": true,
+        "value": ""
+      },
+      "type": "widg_InstanceSharable"
+    }
+  ]
+}]
